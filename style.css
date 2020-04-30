@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-color: #ddd;
+}
+
+#title{
+  font-family: Helvetica, comic-sans MS, arial;
+  text-decoration: underline;
+}
+
+h2{
+  font-family: sans-serif, Helvetica, arial;
+}
+
+#tribute-info{
+  font-family: Arial, sans-serif, Helvetica;
+}
+
+p{
+  font-family: Arial, sans-serif, Helvetica;
+}
+
+#tribute-link{
+  font-family: Arial, sans-serif, Helvetica;
+}
+
+#img-div{
+ display: inline-block; 
+}
+
+#image{
+  height: auto;
+  max-width: 100%;
+  display: block;
+  border: solid 30px #fff;
+}
